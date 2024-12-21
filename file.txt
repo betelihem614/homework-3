@@ -1,0 +1,9 @@
+cd
+ls
+pwd
+mkdir
+touch text.txt
+git status 
+git add .
+git pull
+git commit -m "commit message"
